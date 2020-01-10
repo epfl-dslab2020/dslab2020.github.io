@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Lab in Data Science
+title: EPFL Lab in Data Science Spring 2020
 repository: dslab2019/dslab2019.github.io
 plugins:
 - jekyll-github-metadata
