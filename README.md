@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Description
 
-You can use the [editor on GitHub](https://github.com/epfl-dslab2020/dslab2020.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This hands-on course teaches the tools & methods used by data scientists, from researching solutions to scaling up prototypes to Spark clusters. It exposes the students to the entire data science pipeline, from data acquisition to extracting valuable insights applied to real-world problems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Students work in groups of 4 on big data science problems of the kind typically faced in the industry. There are four graded homeworks and a final project with a video presentation.
 
-### Markdown
+## Questions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Questions and discussions about the course are gathered on mattermost: [https://mattermost-dslab.epfl.ch](https://mattermost-dslab.epfl.ch/2020). You will need to register with your EPFL gitlab ID.
 
-```markdown
-Syntax highlighted code block
+## Final Project
 
-# Header 1
-## Header 2
-### Header 3
+- Final assignment: [description](/final_project/README.md)
 
-- Bulleted
-- List
+## Lab Sessions
 
-1. Numbered
-2. List
+### Week 1 - 19.02.2020
 
-**Bold** and _Italic_ and `Code` text
+### Week 2 - 26.02.2020
 
-[Link](url) and ![Image](src)
-```
+### Week 3 - 04.03.2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Week 4 - 11.03.2020
 
-### Jekyll Themes
+### Week 5 - 18.03.2020
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/epfl-dslab2020/dslab2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Week 6 - 25.03.2020
 
-### Support or Contact
+### Week 7 - 01.04.2020
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Week 8 - 08.04.2020
+
+### Week 9 - 22.04.2020
+
+### Week 10 - 29.04.2020
+
+### Week 11 - 06.05.2020
+
+### Week 12 - 13.05.2020
+
+### Week 13 - 20.05.2020
+
+### Week 14 - 27.05.2020
+
+### Week 15 - 03.06.2020
+
+### Week 16 - 10.06.2020
+
+### Week 17 - 17.06.2020
+
+### Week 18 - 24.06.2020
+
+
