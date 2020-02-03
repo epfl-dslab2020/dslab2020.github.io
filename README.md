@@ -6,7 +6,7 @@ Students work in groups of 4 on big data science problems of the kind typically 
 
 ## Questions
 
-Questions and discussions about the course are gathered on mattermost: [https://mattermost-dslab.epfl.ch](https://mattermost-dslab.epfl.ch/2020). You will need to register with your EPFL gitlab ID.
+Questions and discussions about the course are gathered on Slack: [https://epfl-dslab2020.slack.io](https://epfl-dslab2020.slack.io). You will receive an invitation to join the workspace.
 
 ## Final Project
 
@@ -15,6 +15,22 @@ Questions and discussions about the course are gathered on mattermost: [https://
 ## Lab Sessions
 
 ### Week 1 - 19.02.2020
+
+* Syllabus
+
+  - Presentation of the lab
+
+  - Data science in the real world
+
+  - SDSC industry team overview
+
+* Tasks of data mining and best practices for efficient/reproducible collaboration
+
+  - Take home exercises with git, containers and collaboration tools that will be used during the lab.
+  
+* Materials
+
+  - comming soon
 
 ### Week 2 - 26.02.2020
 
