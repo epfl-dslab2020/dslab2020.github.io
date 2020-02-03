@@ -126,7 +126,6 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
-   - [industry](/slides/comingsoon.md)
 * exercises
    - [week 11 solutions](/notebooks/comingsoon.md)
 * graded homework
@@ -134,14 +133,26 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 13 - 20.05.2020
 
+* Q&A Final
+
 ### Week 14 - 27.05.2020
+
+* Q&A Final
 
 ### Week 15 - 03.06.2020
 
+* Q&A Final
+
 ### Week 16 - 10.06.2020
+
+* Q&A Final
 
 ### Week 17 - 17.06.2020
 
+* Q&A Final
+
 ### Week 18 - 24.06.2020
+
+* Presentations final
 
 
