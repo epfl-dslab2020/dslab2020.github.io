@@ -48,7 +48,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * exercises
    - [week 3 solutions](/notebooks/comingsoon.md)
    - [week 4](/notebooks/comingsoon.md)
-* graded homework
+* assessed project
    - homework 1 [instructions](/homeworks/comingsoon.md)
 
 ### Week 5 - 18.03.2020
@@ -68,7 +68,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * exercises
    - [week 5 solutions](/notebooks/comingsoon.md)
    - [week 6](/notebooks/comingsoon.md)
-* graded homework
+* assessed project
    - homework 1 [solutions](/homeworks/comingsoon.md)
    - homework 2 [instructions](/homeworks/comingsoon.md)
 
@@ -89,7 +89,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * exercises
    - [week 7 solutions](/notebooks/comingsoon.md)
    - [week 8](/notebooks/comingsoon.md)
-* graded homework
+* assessed project
    - homework 2 [solutions](/homeworks/comingsoon.md)
    - homework 3 [instructions](/homeworks/comingsoon.md)
 
@@ -110,7 +110,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * exercises
    - [week 9 solutions](/notebooks/comingsoon.md)
    - [week 10](/notebooks/comingsoon.md)
-* graded homework
+* assessed project
    - homework 3 [solutions](/homeworks/comingsoon.md)
    - homework 4 [instructions](/homeworks/comingsoon.md)
 
@@ -128,7 +128,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [lab](/slides/comingsoon.md)
 * exercises
    - [week 11 solutions](/notebooks/comingsoon.md)
-* graded homework
+* assessed project
    - homework 4 [solutions](/homeworks/comingsoon.md)
 
 ### Week 13 - 20.05.2020
