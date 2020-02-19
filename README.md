@@ -17,10 +17,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 ### Week 1 - 19.02.2020
 
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
-   - [industry](/slides/comingsoon.md)
+   - [lab](/slides/DSLab2020_week-1_lecture.pdf)
+   - [industry](/slides/DSLab2020_week-1_industry.pdf)
 * exercises
-   - [week 1](/notebooks/comingsoon.md)
+   - [week 1](/homeworks/DSLab2020_week-1-exercises.pdf)
 
 ### Week 2 - 26.02.2020
 
