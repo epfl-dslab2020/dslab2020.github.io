@@ -16,6 +16,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 1 - 19.02.2020
 
+* module 1
+   - Jupyter Notebooks
+   - Python 3.x
+   - NumPy, Pandas, Matplotlib, Scikit-Learn
 * slides (pdf):
    - [lab](/slides/DSLab2020_week-1_lecture.pdf)
    - [industry](/slides/DSLab2020_week-1_industry.pdf)
@@ -24,6 +28,9 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 2 - 26.02.2020
 
+* module 1
+   - Reproducible data science
+   - Git, Docker, Renku
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -33,6 +40,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 3 - 04.03.2020
 
+* module 2
+   - Introduction to big data, best practices and guidelines
+   - Loading & querying data with Hadoop
+   - HDFS, Hive
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -42,6 +53,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 4 - 11.03.2020
 
+* module 2
+   - Data wrangling with Hadoop
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -53,6 +66,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 5 - 18.03.2020
 
+* module 2
+   - Introduction to distributed computing and the Spark runtime architecture
+   - Python on Spark
+   - Basic RDD manipulations
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -62,6 +79,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 6 - 25.03.2020
 
+* module 3
+   - Spark data frames
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -74,6 +93,9 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 7 - 01.04.2020
 
+* module 3
+   - Advanced python for Spark, Spark optimization
+   - Spark pipelines, Spark MLlib, classifiers
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -83,6 +105,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 8 - 08.04.2020
 
+* module 3
+   - Data mining with Spark
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -96,6 +120,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 9 - 22.04.2020
 
+* module 4
+   - Introduction to data stream processing
+   - Overview of MQTT as sensor protocol for IoT
+   - Apache Kafka for stream processing
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -105,6 +133,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 10 - 29.04.2020
 
+* module 4
+   - Advanced data stream processing concepts on Spark with Kafka
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
@@ -118,6 +148,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 11 - 06.05.2020
 
+* module 4
+   - Data in motion and data at rest
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
 * exercises
@@ -126,6 +158,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 12 - 13.05.2020
 
+* final assignment
+   - Useful tips and hints
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
 * exercises
@@ -133,31 +167,40 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * assessed project
    - homework 3 grades
    - homework 4 [solutions](/homeworks/comingsoon.md)
+   - final assignment presentation
 
 ### Week 13 - 20.05.2020
 
-* Q&A Final
+* final assignment
+   - Q&A office hours
 
 ### Week 14 - 27.05.2020
 
-* Q&A Final
+* final assignment
+   - Q&A office hours
 * assessed project
    - homework 4 grades
 
 ### Week 15 - 03.06.2020
 
-* Q&A Final
+* final assignment
+   - Q&A office hours
 
 ### Week 16 - 10.06.2020
 
-* Q&A Final
+* final assignment
+   - Q&A office hours
 
 ### Week 17 - 17.06.2020
 
-* Q&A Final
+* Final assignment due
+  - code
+  - results
+  - 6min video presentations
 
-### Week 18 - 24.06.2020
+### Week 18 - Flexible
 
-* Presentations final
+* Final assignment
+  - 10min oral Q&A
 
 
