@@ -88,6 +88,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [week 5 solutions](/notebooks/comingsoon.md)
    - [week 6](/notebooks/comingsoon.md)
 * assessed project
+   - homework 1 due before 00:00 CET
    - homework 1 [solutions](/homeworks/comingsoon.md)
    - homework 2 [instructions](/homeworks/comingsoon.md)
 
@@ -115,6 +116,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [week 8](/notebooks/comingsoon.md)
 * assessed project
    - homework 1 grades
+   - homework 2 due before 00:00 CEST
    - homework 2 [solutions](/homeworks/comingsoon.md)
    - homework 3 [instructions](/homeworks/comingsoon.md)
 
@@ -143,6 +145,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [week 10](/notebooks/comingsoon.md)
 * assessed project
    - homework 2 grades
+   - homework 3 due before 00:00 CEST
    - homework 3 [solutions](/homeworks/comingsoon.md)
    - homework 4 [instructions](/homeworks/comingsoon.md)
 
@@ -166,6 +169,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [week 11 solutions](/notebooks/comingsoon.md)
 * assessed project
    - homework 3 grades
+   - homework 4 due before 00:00 CEST
    - homework 4 [solutions](/homeworks/comingsoon.md)
    - final assignment presentation
 
@@ -193,7 +197,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 ### Week 17 - 17.06.2020
 
-* Final assignment due
+* Final assignment due before 00:00 CEST
   - code
   - results
   - 6min video presentations
