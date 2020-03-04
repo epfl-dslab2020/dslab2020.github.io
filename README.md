@@ -44,7 +44,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Loading & querying data with Hadoop
    - HDFS, Hive
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
+   - [lab](/slides/DSLab2020_week-3_lecture.pptx)
    - [industry](/slides/comingsoon.md)
 * exercises
    - [week 2 solutions](/notebooks/comingsoon.md)
