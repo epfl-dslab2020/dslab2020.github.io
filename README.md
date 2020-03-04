@@ -47,7 +47,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [lab](/slides/DSLab2020_week-3_lecture.pptx)
    - [industry](/slides/DSLab2020_week-3_industry-short.pptx)
 * exercises
-   - [week 2 solutions](/notebooks/comingsoon.md)
+   - [week 2 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-solutions-week-2/)
    - [week 3](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-3/)
 
 ### Week 4 - 11.03.2020
