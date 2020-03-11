@@ -55,13 +55,13 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * module 2
    - Data wrangling with Hadoop
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
+   - [lab](/slides/DSLab2020_week-3_lecture.pptx)
    - [industry](/slides/comingsoon.md)
 * exercises
-   - [week 3 solutions](/notebooks/comingsoon.md)
-   - [week 4](/notebooks/comingsoon.md)
+   - [week 3 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-solutions-week-3/)
+   - [week 4](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-4/)
 * assessed project
-   - homework 1 [instructions](/homeworks/comingsoon.md)
+   - homework 1 [instructions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-1/)
 
 ### Week 5 - 18.03.2020
 
