@@ -69,8 +69,9 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Introduction to distributed computing and the Spark runtime architecture
    - Python on Spark
    - Basic RDD manipulations
-* slides (pdf):
-   - [lab](/slides/comingsoon.md)
+* slides:
+   - [lab web](/slides/DSLab_week-5_lecture)
+   - [lab pdf](/slides/DSLab_week-5_lecture/?print-pdf)
    - [industry](/slides/comingsoon.md)
 * exercises
    - [week 4 solutions](/notebooks/comingsoon.md)
