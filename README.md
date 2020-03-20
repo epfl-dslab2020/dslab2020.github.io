@@ -6,7 +6,7 @@ Students work in groups of 4 on big data science problems of the kind typically 
 
 ## Questions
 
-Questions and discussions about the course are gathered on Slack: [https://epfl-dslab2020.slack.io](https://epfl-dslab2020.slack.io). You will receive an invitation to join the workspace.
+Questions and discussions about the course are gathered on Slack: [https://epfl-dslab2020.slack.com](https://epfl-dslab2020.slack.com). You will receive an invitation to join the workspace.
 
 ## Final Project
 
