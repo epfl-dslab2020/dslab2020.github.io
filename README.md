@@ -82,7 +82,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * module 3
    - Spark data frames
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
+   - [lab web](/slides/DSLab_week-6_lecture)
    - [industry](/slides/comingsoon.md)
 * exercises
    - [week 5 solutions](/notebooks/comingsoon.md)
