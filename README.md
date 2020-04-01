@@ -98,8 +98,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Advanced python for Spark, Spark optimization
    - Spark pipelines, Spark MLlib, classifiers
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
-   - [industry](/slides/comingsoon.md)
+   - [lab](/slides/DSLab_week-7_lecture)
+   - No industry talk this week
 * exercises
    - [week 6 solutions](/notebooks/comingsoon.md)
    - [week 7](/notebooks/comingsoon.md)
