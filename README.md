@@ -72,10 +72,10 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * slides:
    - [lab web](/slides/DSLab_week-5_lecture)
    - [lab pdf](/slides/DSLab_week-5_lecture/?print-pdf)
-   - [industry](/slides/comingsoon.md)
+   - No industy talk this week
 * exercises
    - [week 4 solutions](/notebooks/comingsoon.md)
-   - [week 5](/notebooks/comingsoon.md)
+   - [week 5](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week5-intro-to-spark)
 
 ### Week 6 - 25.03.2020
 
@@ -85,40 +85,41 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [lab web](/slides/DSLab_week-6_lecture)
    - [industry](/slides/comingsoon.md)
 * exercises
-   - [week 5 solutions](/notebooks/comingsoon.md)
-   - [week 6](/notebooks/comingsoon.md)
+   - [week 5 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week5-intro-to-spark-solutions)
+   - [week 6](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week6-spark-dataframes)
 * assessed project
    - homework 1 due before 00:00 CET
-   - homework 1 [solutions](/homeworks/comingsoon.md)
-   - homework 2 [instructions](/homeworks/comingsoon.md)
+   - homework 1 [solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-1-solution)
+   - homework 2 [instructions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-2)
 
 ### Week 7 - 01.04.2020
 
 * module 3
-   - Advanced python for Spark, Spark optimization
-   - Spark pipelines, Spark MLlib, classifiers
+   - Advanced Spark, optimizations and partitioning
 * slides (pdf):
    - [lab](/slides/DSLab_week-7_lecture)
    - No industry talk this week
 * exercises
-   - [week 6 solutions](/notebooks/comingsoon.md)
-   - [week 7](/notebooks/comingsoon.md)
+   - [week 6 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week6-spark-dataframes-solutions)
+   - No explicit exercise this week, however you can extend the covid demo project and do some basic data science on an important topic!
 
 ### Week 8 - 08.04.2020
 
 * module 3
-   - Data mining with Spark
+   - Advanced Spark, optimizations and partitioning
+   - Practical exercises with Twitter, SBB data and partitioning
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
-   - [industry](/slides/comingsoon.md)
+   - Lab is in the form of an exercise notebook
+   - [industry](/slides/DSLab2020_week-8_industry.pptx)
 * exercises
-   - [week 7 solutions](/notebooks/comingsoon.md)
-   - [week 8](/notebooks/comingsoon.md)
+   - [week 8](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-8)
 * assessed project
    - homework 1 grades
    - homework 2 due before 00:00 CEST
-   - homework 2 [solutions](/homeworks/comingsoon.md)
-   - homework 3 [instructions](/homeworks/comingsoon.md)
+   - homework 2 [solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-2-solution)
+   - homework 3 [instructions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-3)
+
+### Easter break! - 15.04.2020
 
 ### Week 9 - 22.04.2020
 
@@ -206,5 +207,3 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 * Final assignment
   - 10min oral Q&A
-
-
