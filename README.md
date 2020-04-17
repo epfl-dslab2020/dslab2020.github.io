@@ -125,7 +125,6 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 * module 4
    - Introduction to data stream processing
-   - Overview of MQTT as sensor protocol for IoT
    - Apache Kafka for stream processing
 * slides (pdf):
    - [lab](/slides/comingsoon.md)
