@@ -56,7 +56,9 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Data wrangling with Hadoop
 * slides (pdf):
    - [lab](/slides/DSLab2020_week-4_lecture.pptx)
-   - [industry](/slides/comingsoon.md)
+   - [industry RomandeEnergie](/slides/DSLab2020_week-3_industry-RomandeEnergy.pptx)
+   - [industry Merck SDSC](/slides/DSLab2020_week-3_industry-Merck-SDSC.pdf)
+   - [industry Merck CHD](/slides/DSLab2020_week-3_industry-Merck-CHD.pdf)
 * exercises
    - [week 3 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-solutions-week-3/)
    - [week 4](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-4/)
