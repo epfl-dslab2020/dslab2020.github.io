@@ -132,8 +132,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
 * exercises
-   - [week 8 solutions](/notebooks/comingsoon.md)
-   - [week 9](/notebooks/comingsoon.md)
+   - [week 8 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-8-solution)
+   - [week 9](https://renku.iccluster.epfl.ch/gitlab/dslab2020/dslab-exercises-week-9/)
 
 ### Week 10 - 29.04.2020
 
