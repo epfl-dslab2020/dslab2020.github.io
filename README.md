@@ -129,7 +129,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Introduction to data stream processing
    - Apache Kafka for stream processing
 * slides (pdf):
-   - [lab](https://drive.switch.ch/index.php/s/kjmSwQwtzY0gR4g)
+   - [lab video](https://drive.switch.ch/index.php/s/kjmSwQwtzY0gR4g)
+   - [lab slides](/slides/DSLab2020_week-9_lecture.pptx)
    - [industry](/slides/notifications.md)
 * exercises
    - [week 8 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-8-solution)
