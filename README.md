@@ -110,7 +110,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * module 3
    - Advanced Spark, optimizations and partitioning
    - Practical exercises with Twitter, SBB data and partitioning
-* slides (pdf):
+* slides:
    - Lab is in the form of an exercise notebook
    - [industry](/slides/DSLab2020_week-8_industry.pptx)
 * exercises
@@ -128,7 +128,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * module 4
    - Introduction to data stream processing
    - Apache Kafka for stream processing
-* slides (pdf):
+* slides:
    - [lab video](https://drive.switch.ch/index.php/s/kjmSwQwtzY0gR4g)
    - [lab slides](/slides/DSLab2020_week-9_lecture.pptx)
    - [industry](/slides/notifications.md)
@@ -140,7 +140,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 
 * module 4
    - Advanced data stream processing concepts on Spark with Kafka
-* slides (pdf):
+* slides:
    - [lab](/slides/comingsoon.md)
    - [industry](/slides/comingsoon.md)
 * exercises
