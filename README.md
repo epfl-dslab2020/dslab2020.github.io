@@ -85,7 +85,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Spark data frames
 * slides (pdf):
    - [lab web](/slides/DSLab_week-6_lecture)
-   - [industry](/slides/comingsoon.md)
+   - [industry](/slides/notifications.md)
 * exercises
    - [week 5 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week5-intro-to-spark-solutions)
    - [week 6](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-week6-spark-dataframes)
@@ -129,8 +129,8 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - Introduction to data stream processing
    - Apache Kafka for stream processing
 * slides (pdf):
-   - [lab](/slides/comingsoon.md)
-   - [industry](/slides/comingsoon.md)
+   - [lab](https://drive.switch.ch/index.php/s/kjmSwQwtzY0gR4g)
+   - [industry](/slides/notifications.md)
 * exercises
    - [week 8 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-8-solution)
    - [week 9](https://renku.iccluster.epfl.ch/gitlab/dslab2020/dslab-exercises-week-9/)
@@ -180,31 +180,13 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * final assignment
    - Q&A office hours
 
-### Week 14 - 27.05.2020
+### Week 14 - 27.05.2020 - 29.05.2020
 
-* final assignment
+* final assignment (27.05)
    - Q&A office hours
-* assessed project
+   - 7 min (max) videos due by midnight
+* assessed project (27.05)
    - homework 4 grades
+* final assignment (29.05)
+   - Oral Q&A (video calls of 10min per group)
 
-### Week 15 - 03.06.2020
-
-* final assignment
-   - Q&A office hours
-
-### Week 16 - 10.06.2020
-
-* final assignment
-   - Q&A office hours
-
-### Week 17 - 17.06.2020
-
-* Final assignment due before 00:00 CEST
-  - code
-  - results
-  - 6min video presentations
-
-### Week 18 - Flexible
-
-* Final assignment
-  - 10min oral Q&A
