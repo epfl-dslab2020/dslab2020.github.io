@@ -141,7 +141,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * module 4
    - Advanced data stream processing concepts on Spark with Kafka
 * slides:
-   - [lab](/slides/comingsoon.md)
+   - [lab](/slides/DSLab2020_week-10_lecture.pptx)
    - [industry](/slides/comingsoon.md)
 * exercises
    - [week 9 solutions](/notebooks/comingsoon.md)
