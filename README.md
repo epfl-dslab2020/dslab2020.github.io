@@ -144,7 +144,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [lab](/slides/DSLab2020_week-10_lecture.pptx)
    - [industry](/slides/comingsoon.md)
 * exercises
-   - [week 9 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-9-solution)
+   - [week 9 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-9-solutions)
 * assessed project
    - homework 2 grades
    - homework 3 due before 00:00 CEST
