@@ -145,7 +145,6 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [industry](/slides/comingsoon.md)
 * exercises
    - [week 9 solutions](/notebooks/comingsoon.md)
-   - [week 10](/notebooks/comingsoon.md)
 * assessed project
    - homework 2 grades
    - homework 3 due before 00:00 CEST
