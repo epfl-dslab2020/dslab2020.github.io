@@ -8,9 +8,9 @@ The final assignment is to be done in **groups of 4 or, preferably, 5**.
 
 ## Important dates
 
-The assignment (clear, well-annotated notebook; report-like), **with a short, 7max, video of your presentation** is due on **May 27th, 23:59** (note the change of date).
+The assignment (clear, well-annotated notebook; report-like), **with a short, 7max, video of your presentation** is due on **Monday May 25th noon 12:00 CET** (note the change of date).
 
-Instead of oral defense as initially planned, we will organize short Q&A discussions of 10mins per group. The Q&A will be scheduled on **May 29th, from 10am to noon, and from 2pm to 4pm** - tentatively, actual times to be discussed on a case by
+Instead of oral defense as initially planned, we will organize short Q&A discussions of 10mins per group. The Q&A will be scheduled on **Wednesday May 27th, 13:00 - 17:30 CET** - tentatively, actual times to be discussed on a case by
 case basis.
 
 ## Problem Motivation
