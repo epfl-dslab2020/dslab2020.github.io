@@ -147,7 +147,7 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
    - [week 9 solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-exercises-week-9-solutions)
 * assessed project
    - homework 2 grades
-   - homework 3 due before 00:00 CEST
+   - homework 3 due before 23:59 CEST
    - homework 3 [solutions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-3-solution)
    - homework 4 [instructions](https://renku.iccluster.epfl.ch/projects/dslab2020/dslab-homework-4)
 
@@ -180,13 +180,12 @@ Questions and discussions about the course are gathered on Slack: [https://epfl-
 * final assignment
    - Q&A office hours
 
-### Week 14 - 27.05.2020 - 29.05.2020
+### Week 14 - 24.05.2020 - 27.05.2020
 
+* final assignment (25.05 noon)
+   - 7 min (max) video and notebook due by midnight
 * final assignment (27.05)
-   - Q&A office hours
-   - 7 min (max) videos due by midnight
+   - Oral Q&A (video calls of 6min per group)
 * assessed project (27.05)
-   - homework 4 grades
-* final assignment (29.05)
-   - Oral Q&A (video calls of 10min per group)
+   - homework 4 grades available
 
