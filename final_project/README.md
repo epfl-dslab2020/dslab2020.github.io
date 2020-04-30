@@ -65,9 +65,13 @@ You can find the dataset in the following two places.
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/2018-04.tar.lzma>
     - <https://os.unil.cloud.switch.ch/swift/v1/CFF/metadata.tar.gz>
 
-The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>) and the station list data [BFKOORD_GEO](https://opentransportdata.swiss/en/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung), which you can also get [here](./BFKOORD_GEO)
+The folder contains the actual data [istdaten](<https://opentransportdata.swiss/en/dataset/istdaten>).
 
-Format: the dataset is presented a collection of textfiles with fields separated by ';' (semi-colon). There is one file per day.
+You can also find the station data [BFKOORD_GEO](https://opentransportdata.swiss/en/dataset/bhlist) under HDFS `/data/sbb/stations/bfkoordgeo.csv`.
+
+The [timetable](https://opentransportdata.swiss/en/cookbook/hafas-rohdaten-format-hrdf/#Abgrenzung) is available on the Open Data Plaftorm Swiss Public Transport.
+
+Format: the istdaten dataset is presented a collection of textfiles with fields separated by ';' (semi-colon). There is one file per day.
 
 Unfortunately, the full description from opentransportdata.swiss is only provided in German. You can use an automated translator ([DeepL](<https://www.deepl.com>) seems to provide a better translation at the time of writing) to get more information, but here are the relevant column descriptions:
 
