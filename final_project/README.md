@@ -296,7 +296,7 @@ We must also allow time for transfers between different modes of transports, suc
 You can use the transfer time information available from `transfers.txt` from the [timetables](#timetable-data).
 Otherwise, we assume that `2min` mininum are required for transfers within a same location
 (i.e. same lat,lon coordinates), to which you add _1min per 50m_ walking time
-to connect two stations that at most _500m_ appart, on a straight line distance between their two lat,lon. 
+to connect two stations that are at most _500m_ appart, on a straight line distance between their two lat,lon. 
 
 ##### 2 - Q: Can we assume statistical independence between the observed delays?
 * **A**: Yes, see simplifying assumptions in **Problem Description**.
